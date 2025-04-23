@@ -14,4 +14,4 @@ A simple Python program that simulates rolling two dice.
 Make sure Python is installed, then in your terminal:
 
 ```bash
-python dice_game.py
+python dice_rolling_game.py
