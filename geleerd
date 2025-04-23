@@ -1,0 +1,36 @@
+✅ Wat je geleerd hebt van je Python dobbelspel (alles in een lijst)
+Gebruik maken van input()
+– Je leerde hoe je invoer van de gebruiker kunt vragen.
+
+Werken met if, elif en else
+– Je begrijpt nu hoe je keuzes en voorwaarden inbouwt in je code.
+
+Een while-lus gebruiken
+– Je leerde hoe je je programma laat herhalen tot de gebruiker wil stoppen.
+
+De random module gebruiken
+– Je gebruikte random.randint() om willekeurige getallen te genereren (zoals een dobbelsteenrol).
+
+F-strings gebruiken (f"...")
+– Je leerde hoe je waarden in een tekst kunt verwerken op een nette manier.
+
+Een simpel spel bouwen
+– Je maakte een interactieve mini-game waarin de gebruiker iets kan doen en het spel reageert.
+
+Een project structureren
+– Je weet nu hoe je een project netjes indeelt met:
+
+een scriptbestand (dice_game.py)
+
+een README-bestand voor uitleg
+
+een .gitignore om rommel te vermijden
+
+Werken met Git en GitHub
+– Je maakte kennis met versiebeheer en hoe je een repository opbouwt en online zet.
+
+Bestandsnamen en conventies volgen
+– Je gaf je bestanden logische namen en leerde hoe projectmappen werken.
+
+Je programmeervaardigheden verbeteren
+– Je oefende met alles wat je tot nu toe hebt geleerd in Python!
